@@ -1,2 +1,3 @@
-# Prepcourse-henry
-mi primer repositorio en la nube 
+estoy aprendiendo 
+a creear un repositorio en la nube y modificarlo localmente
+
